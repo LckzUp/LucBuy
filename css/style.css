@@ -3,24 +3,3 @@ html {
   font-weight: 400;
   font-style: normal;
 }
-#primeira{
-  height: 200px;
-  width: 200px;
-  background-color: #0000FF;
-  display: inline-block;
-}
-#segunda{
-  height: 200px;
-  width: 200px;
-  background-color: #00FF00;
-  display: inline-block;
-}
-#branco{
-  height: 300px;
-  width: 200px;
-}
-#terceira{
-  height: 200px;
-  width: 500px;
-  background-color: #FF4500;
-}
